@@ -5,7 +5,8 @@
 Use Chrome.  For some reason, the JLCPCB order process is broken for me on FireFox.  Much sadness.
 
 You'll need the following three files:
-* <https://github.com/VanceVagell/kv4p-ht/blob/main/pcb/KiCAD/kv4p-ht/production/kv4p_HT_2.0c.zip>
+https://github.com/BG7XSS/kv4p-ht/tree/main/pcb/KiCAD
+* <https://github.com/BG7XSS/kv4p-ht/tree/main/pcb/KiCAD/kv4p-ht/production/kv4p_HT_2.0c.zip>
 * <https://github.com/VanceVagell/kv4p-ht/blob/main/pcb/KiCAD/kv4p-ht/production/bom.csv>
 * <https://github.com/VanceVagell/kv4p-ht/blob/main/pcb/KiCAD/kv4p-ht/production/positions.csv>
 
